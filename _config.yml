@@ -5,7 +5,7 @@ keywords: learn,java,logs
 author: Wxz
 language: zh-CN
 timezone: Asia/Shanghai
-url: http://example.com
+url: https://github.com/lan-ke-people/lanke.github.io.git
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
